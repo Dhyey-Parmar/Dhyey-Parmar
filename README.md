@@ -32,6 +32,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
