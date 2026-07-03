@@ -62,6 +62,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -81,4 +82,12 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
