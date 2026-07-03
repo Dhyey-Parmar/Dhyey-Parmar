@@ -28,11 +28,13 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -46,6 +48,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
