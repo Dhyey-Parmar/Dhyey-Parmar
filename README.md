@@ -69,6 +69,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
+| [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
 ## Enumeration
 |  |
 | ------- |
@@ -96,8 +97,13 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
+| [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
