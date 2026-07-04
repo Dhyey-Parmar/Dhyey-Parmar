@@ -66,6 +66,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -80,6 +81,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
 |  |
