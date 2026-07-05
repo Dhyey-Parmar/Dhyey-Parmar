@@ -48,6 +48,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
