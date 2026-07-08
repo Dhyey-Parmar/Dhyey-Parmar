@@ -38,6 +38,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +128,5 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
