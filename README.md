@@ -36,6 +36,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -108,6 +109,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -131,4 +133,8 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
