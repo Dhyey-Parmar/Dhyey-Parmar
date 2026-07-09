@@ -57,6 +57,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -68,6 +69,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +143,8 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
