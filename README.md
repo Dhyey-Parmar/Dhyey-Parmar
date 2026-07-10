@@ -29,6 +29,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -83,6 +84,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
@@ -130,6 +132,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
