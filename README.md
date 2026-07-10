@@ -62,6 +62,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -150,4 +151,8 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
