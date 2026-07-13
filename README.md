@@ -104,6 +104,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
