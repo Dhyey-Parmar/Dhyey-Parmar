@@ -31,6 +31,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -63,6 +64,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
@@ -83,6 +85,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -93,6 +96,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
@@ -115,6 +119,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
 |  |
@@ -143,6 +148,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
