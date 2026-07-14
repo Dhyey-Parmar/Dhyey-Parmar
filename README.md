@@ -64,6 +64,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
