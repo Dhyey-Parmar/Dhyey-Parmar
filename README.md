@@ -43,6 +43,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +135,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
