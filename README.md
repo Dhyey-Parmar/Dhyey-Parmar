@@ -89,6 +89,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
@@ -100,6 +101,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
