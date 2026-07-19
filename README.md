@@ -49,6 +49,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3798-largest-even-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |
