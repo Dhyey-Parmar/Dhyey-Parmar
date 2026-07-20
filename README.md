@@ -47,6 +47,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3798-largest-even-number) |
@@ -58,6 +59,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1535-find-the-winner-of-an-array-game) |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
@@ -207,6 +210,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,4 +219,12 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
+## Design
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
