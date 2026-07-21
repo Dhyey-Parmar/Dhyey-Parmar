@@ -47,6 +47,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
