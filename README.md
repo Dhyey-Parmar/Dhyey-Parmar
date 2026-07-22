@@ -62,6 +62,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -156,6 +158,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -217,6 +220,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
