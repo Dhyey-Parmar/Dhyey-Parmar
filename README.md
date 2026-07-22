@@ -114,6 +114,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -147,6 +148,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
 |  |
