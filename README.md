@@ -149,6 +149,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
@@ -246,4 +247,5 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
