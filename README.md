@@ -148,6 +148,7 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 ## Combinatorics
@@ -241,4 +242,8 @@ Here's an updated version including **Machine Learning**:<br><br>👋 Hi, I'm **
 |  |
 | ------- |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
