@@ -81,6 +81,7 @@
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -102,6 +103,7 @@
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
