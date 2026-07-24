@@ -112,6 +112,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0204-count-primes) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
