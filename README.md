@@ -118,6 +118,7 @@
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
@@ -233,11 +234,13 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0739-daily-temperatures) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0739-daily-temperatures) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Matrix
 |  |
