@@ -79,6 +79,7 @@
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -124,6 +125,7 @@
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1752-check-if-array-is-sorted-and-rotated) |
