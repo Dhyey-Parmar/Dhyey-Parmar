@@ -47,6 +47,7 @@
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -76,6 +77,7 @@
 | [0263-ugly-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0628-maximum-product-of-three-numbers) |
@@ -224,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
