@@ -132,6 +132,7 @@
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -205,6 +206,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -272,4 +274,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
