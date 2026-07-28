@@ -49,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
