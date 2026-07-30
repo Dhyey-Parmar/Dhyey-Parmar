@@ -53,6 +53,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3798-largest-even-number) |
@@ -86,6 +87,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@
 | [2126-destroying-asteroids](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
