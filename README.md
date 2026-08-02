@@ -83,6 +83,7 @@
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0877-stone-game) |
 | [1201-ugly-number-iii](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1201-ugly-number-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2413-smallest-even-multiple](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2413-smallest-even-multiple) |
@@ -132,6 +133,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1288-remove-covered-intervals) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
