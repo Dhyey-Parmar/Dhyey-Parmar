@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +79,7 @@
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0507-perfect-number) |
@@ -105,6 +107,7 @@
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
