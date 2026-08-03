@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Math
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0273-integer-to-english-words) |
