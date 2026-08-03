@@ -68,6 +68,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2296-design-a-text-editor) |
 ## Math
@@ -297,9 +298,22 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
