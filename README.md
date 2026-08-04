@@ -37,6 +37,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -232,6 +234,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
