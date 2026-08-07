@@ -52,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0686-repeated-string-match) |
 ## Memoization
 |  |
 | ------- |
@@ -327,4 +329,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0128-longest-consecutive-sequence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
