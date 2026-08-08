@@ -143,6 +143,7 @@
 | [0217-contains-duplicate](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0739-daily-temperatures) |
@@ -203,6 +204,7 @@
 | [0027-remove-element](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhyey-Parmar/Dhyey-Parmar/tree/master/3867-sum-of-gcd-of-formed-pairs) |
